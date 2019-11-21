@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Support Wheel of Fate</string>
+    <string name="generate_schedule">Generate Schedule</string>
+    <string name="generated_schedule">Generated Schedule</string>
+    <string name="filter">Search employee ID</string>
+    <string name="is_mobile_data_enable">getMobileDataEnabled</string>
+    <string name="no_net_conn">No network connection</string>
+    <string name="emp_id">Emp ID</string>
+    <string name="emp_name">Emp Name</string>
+    <string name="shift">Shift</string>
+    <string name="day">Day</string>
+    <string name="date">Date</string>
+</resources>
